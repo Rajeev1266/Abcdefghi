@@ -13,6 +13,7 @@ public class OrganizationTest {
 	public void modifyorgTest()
 	{
 		System.out.println("modified");
+		System.out.println("hi");
 	}
 	
 }
