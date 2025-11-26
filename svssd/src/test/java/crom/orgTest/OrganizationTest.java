@@ -14,6 +14,7 @@ public class OrganizationTest {
 	{
 		System.out.println("modified");
 		System.out.println("hi");
+		System.out.println("Bye");
 	}
 	
 }
