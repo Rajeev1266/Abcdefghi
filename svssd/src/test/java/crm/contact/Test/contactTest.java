@@ -16,6 +16,8 @@ public class contactTest {
 		System.out.println("hi");
 		System.out.println("hello");
 		System.out.println("dfukhk");
+		System.out.println("dfukhkSAFEAF");
+
 	}
 	@Test
 	public void contactmified()
